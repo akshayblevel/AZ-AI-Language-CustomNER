@@ -1,0 +1,6 @@
+@AZ_AI_Language_CustomNER_HostAddress = http://localhost:5091
+
+GET {{AZ_AI_Language_CustomNER_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
